@@ -1,4 +1,3 @@
-<font color="blue">
 # Code Fellows Reading-Notes
 
 ## My name is Dominique and this is my reading journal for Code Fellows
