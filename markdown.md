@@ -15,13 +15,17 @@
    
      - Lots of popular websites and applications use Markdown.
 
-  4. What symbol will create a heading in Markdown?
+  3. What symbol will create a heading in Markdown?
 
      - The # symbol will create a heading in Markdown.
 
       * How many do you need to create the largest setting?
 
          - You need 1 # symbols to create the largest setting.
+       
+     4. When making text bold or italicized for emphasis, it is best practice to use what symbol?
+
+         - 
 
       * How many do you need to create the smallest setting?
          
