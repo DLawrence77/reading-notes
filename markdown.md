@@ -36,5 +36,6 @@
          - When creating a link, the link should be enclosed in brackets and immediately followed with parentheses. []()
      
    6. What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
-         - 
+        
+         - Add dashes (-), asterisks (*), or plus signs (+) in front of line items to create unordered lists.
    
